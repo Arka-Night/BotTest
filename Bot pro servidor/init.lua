@@ -107,4 +107,4 @@ client:on('messageCreate', function(message)
 
 end)
 
-client:run('Bot NTA1MzY5ODU0MzgwMDgxMTgy.XUyhrA.V__ayl9t8nDMLQWZrED7RIRmkL8')
+client:run('Bot NTA1MzY5ODU0MzgwMDgxMTgy.XUyi1A.-yS-9wLKXxrCAi8oVsrrez35-AA')
