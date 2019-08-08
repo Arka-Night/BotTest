@@ -1,0 +1,546 @@
+2019-08-04 00:06:32 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:06:32 | [INFO]    | Connecting to Discord...
+2019-08-04 00:06:32 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:06:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:06:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:06:33 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:06:33 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:12:45 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:12:45 | [INFO]    | Connecting to Discord...
+2019-08-04 00:12:45 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:12:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:12:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:12:45 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:12:45 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:14:43 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:14:43 | [INFO]    | Connecting to Discord...
+2019-08-04 00:14:44 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:14:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:14:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:14:44 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:14:44 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:16:16 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:16:16 | [INFO]    | Connecting to Discord...
+2019-08-04 00:16:16 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:16:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:16:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:16:16 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:16:17 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:21:16 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:21:16 | [INFO]    | Connecting to Discord...
+2019-08-04 00:21:16 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:21:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:21:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:21:17 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:21:17 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:21:56 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:21:56 | [INFO]    | Connecting to Discord...
+2019-08-04 00:21:56 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:21:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:21:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:21:57 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:21:57 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:28:28 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:28:28 | [INFO]    | Connecting to Discord...
+2019-08-04 00:28:29 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:28:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:28:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:28:29 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:28:29 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:28:56 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 00:29:08 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:29:08 | [INFO]    | Connecting to Discord...
+2019-08-04 00:29:08 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:29:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:29:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:29:09 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:29:09 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:33:18 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 00:53:12 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:53:12 | [INFO]    | Connecting to Discord...
+2019-08-04 00:53:12 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:53:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:53:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:53:12 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:53:12 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:53:51 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 00:57:47 | [INFO]    | Discordia 2.7.0
+2019-08-04 00:57:47 | [INFO]    | Connecting to Discord...
+2019-08-04 00:57:47 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 00:57:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 00:57:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 00:57:48 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 00:57:48 | [INFO]    | Shard 0 : Received READY
+2019-08-04 00:58:11 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 00:58:11 | [INFO]    | Shard 0 : Reconnecting after 972 ms...
+2019-08-04 01:18:07 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2019-08-04 01:18:07 | [INFO]    | Shard 0 : Reconnecting after 2175 ms...
+2019-08-04 01:18:13 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2019-08-04 01:18:13 | [INFO]    | Shard 0 : Reconnecting after 4224 ms...
+2019-08-04 01:18:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 01:18:18 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 01:18:18 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2019-08-04 01:18:23 | [INFO]    | Shard 0 : Received READY
+2019-08-04 01:18:55 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 01:19:29 | [INFO]    | Discordia 2.7.0
+2019-08-04 01:19:29 | [INFO]    | Connecting to Discord...
+2019-08-04 01:19:30 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 01:19:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 01:19:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 01:19:30 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 01:19:31 | [INFO]    | Shard 0 : Received READY
+2019-08-04 01:20:24 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 01:20:29 | [INFO]    | Discordia 2.7.0
+2019-08-04 01:20:29 | [INFO]    | Connecting to Discord...
+2019-08-04 01:20:30 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 01:20:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 01:20:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 01:20:30 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 01:20:30 | [INFO]    | Shard 0 : Received READY
+2019-08-04 01:26:54 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 01:27:14 | [INFO]    | Discordia 2.7.0
+2019-08-04 01:27:14 | [INFO]    | Connecting to Discord...
+2019-08-04 01:27:15 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 01:27:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 01:27:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 01:27:15 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 01:27:15 | [INFO]    | Shard 0 : Received READY
+2019-08-04 01:27:45 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 01:27:50 | [INFO]    | Discordia 2.7.0
+2019-08-04 01:27:50 | [INFO]    | Connecting to Discord...
+2019-08-04 01:27:50 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 01:27:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 01:27:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 01:27:51 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 01:27:51 | [INFO]    | Shard 0 : Received READY
+2019-08-04 09:12:57 | [INFO]    | Discordia 2.7.0
+2019-08-04 09:12:57 | [INFO]    | Connecting to Discord...
+2019-08-04 09:12:57 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 09:12:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 09:12:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 09:12:58 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 09:12:58 | [INFO]    | Shard 0 : Received READY
+2019-08-04 09:14:26 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 09:14:32 | [INFO]    | Discordia 2.7.0
+2019-08-04 09:14:32 | [INFO]    | Connecting to Discord...
+2019-08-04 09:14:32 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 09:14:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 09:14:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 09:14:32 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 09:14:33 | [INFO]    | Shard 0 : Received READY
+2019-08-04 09:26:05 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 09:26:14 | [INFO]    | Discordia 2.7.0
+2019-08-04 09:26:14 | [INFO]    | Connecting to Discord...
+2019-08-04 09:26:14 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 09:26:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 09:26:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 09:26:15 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 09:26:15 | [INFO]    | Shard 0 : Received READY
+2019-08-04 09:56:27 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 09:57:29 | [INFO]    | Discordia 2.7.0
+2019-08-04 09:57:29 | [INFO]    | Connecting to Discord...
+2019-08-04 09:57:29 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 09:57:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 09:57:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 09:57:30 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 09:57:30 | [INFO]    | Shard 0 : Received READY
+2019-08-04 10:44:47 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 10:44:47 | [INFO]    | Shard 0 : Reconnecting after 1042 ms...
+2019-08-04 11:02:54 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2019-08-04 11:02:54 | [INFO]    | Shard 0 : Reconnecting after 2166 ms...
+2019-08-04 11:02:58 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2019-08-04 11:02:58 | [INFO]    | Shard 0 : Reconnecting after 3967 ms...
+2019-08-04 11:03:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:03:02 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:03:02 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2019-08-04 11:03:06 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:08:54 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:08:54 | [INFO]    | Connecting to Discord...
+2019-08-04 11:08:54 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:08:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:08:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:08:55 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:08:55 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:09:43 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 11:09:49 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:09:49 | [INFO]    | Connecting to Discord...
+2019-08-04 11:09:50 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:09:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:09:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:09:50 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:09:50 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:12:44 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 11:12:51 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:12:51 | [INFO]    | Connecting to Discord...
+2019-08-04 11:12:51 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:12:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:12:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:12:51 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:12:52 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:15:06 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 11:16:32 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:16:32 | [INFO]    | Connecting to Discord...
+2019-08-04 11:16:32 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:16:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:16:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:16:32 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:16:33 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:17:21 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:17:21 | [INFO]    | Connecting to Discord...
+2019-08-04 11:17:22 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:17:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:17:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:17:22 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:17:22 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:19:02 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:19:02 | [INFO]    | Connecting to Discord...
+2019-08-04 11:19:02 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:19:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:19:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:19:02 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:19:03 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:23:12 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:23:12 | [INFO]    | Connecting to Discord...
+2019-08-04 11:23:13 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:23:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:23:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:23:13 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:23:13 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:33:03 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 11:33:12 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:33:12 | [INFO]    | Connecting to Discord...
+2019-08-04 11:33:12 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:33:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:33:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:33:13 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:33:13 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:37:23 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:37:23 | [INFO]    | Connecting to Discord...
+2019-08-04 11:37:23 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:37:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:37:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:37:24 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:37:24 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:39:03 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 11:39:11 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:39:11 | [INFO]    | Connecting to Discord...
+2019-08-04 11:39:12 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:39:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:39:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:39:12 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:39:12 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:40:17 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 11:40:24 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:40:24 | [INFO]    | Connecting to Discord...
+2019-08-04 11:40:25 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:40:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:40:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:40:25 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:40:25 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:41:44 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 11:41:47 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:41:47 | [INFO]    | Connecting to Discord...
+2019-08-04 11:41:48 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:41:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:41:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:41:48 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:41:48 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:42:51 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 11:43:07 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:43:07 | [INFO]    | Connecting to Discord...
+2019-08-04 11:43:07 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:43:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:43:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:43:08 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:43:09 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:44:03 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:44:03 | [INFO]    | Connecting to Discord...
+2019-08-04 11:44:03 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:44:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:44:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:44:04 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:44:04 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:44:56 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:44:56 | [INFO]    | Connecting to Discord...
+2019-08-04 11:44:56 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:44:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:44:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:44:56 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:44:57 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:46:28 | [INFO]    | Discordia 2.7.0
+2019-08-04 11:46:28 | [INFO]    | Connecting to Discord...
+2019-08-04 11:46:29 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 11:46:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 11:46:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 11:46:29 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 11:46:29 | [INFO]    | Shard 0 : Received READY
+2019-08-04 11:47:02 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 12:13:59 | [INFO]    | Discordia 2.7.0
+2019-08-04 12:13:59 | [INFO]    | Connecting to Discord...
+2019-08-04 12:14:00 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 12:14:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 12:14:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 12:14:01 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 12:14:02 | [INFO]    | Shard 0 : Received READY
+2019-08-04 12:15:23 | [INFO]    | Discordia 2.7.0
+2019-08-04 12:15:23 | [INFO]    | Connecting to Discord...
+2019-08-04 12:15:24 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 12:15:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 12:15:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 12:15:24 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 12:15:25 | [INFO]    | Shard 0 : Received READY
+2019-08-04 12:29:39 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 12:29:39 | [INFO]    | Shard 0 : Reconnecting after 1038 ms...
+2019-08-04 12:38:40 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2019-08-04 12:38:40 | [INFO]    | Shard 0 : Reconnecting after 1894 ms...
+2019-08-04 12:38:43 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2019-08-04 12:38:43 | [INFO]    | Shard 0 : Reconnecting after 4371 ms...
+2019-08-04 12:38:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 12:38:47 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 12:38:48 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2019-08-04 12:38:50 | [INFO]    | Shard 0 : Received READY
+2019-08-04 13:13:08 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 13:13:08 | [INFO]    | Shard 0 : Reconnecting after 1021 ms...
+2019-08-04 13:44:48 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2019-08-04 13:44:48 | [INFO]    | Shard 0 : Reconnecting after 2143 ms...
+2019-08-04 13:44:52 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2019-08-04 13:44:52 | [INFO]    | Shard 0 : Reconnecting after 4121 ms...
+2019-08-04 13:44:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 13:44:56 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 13:44:56 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2019-08-04 13:45:00 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:06:13 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:06:19 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:06:19 | [INFO]    | Connecting to Discord...
+2019-08-04 14:06:19 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:06:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:06:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:06:20 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:06:20 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:08:34 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:08:40 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:08:40 | [INFO]    | Connecting to Discord...
+2019-08-04 14:08:40 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:08:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:08:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:08:41 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:08:41 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:08:54 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/603664249365200916/messages
+2019-08-04 14:09:53 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:09:58 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:09:58 | [INFO]    | Connecting to Discord...
+2019-08-04 14:09:58 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:09:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:09:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:09:59 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:09:59 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:10:31 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:10:35 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:10:35 | [INFO]    | Connecting to Discord...
+2019-08-04 14:10:36 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:10:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:10:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:10:36 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:10:36 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:11:19 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:11:23 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:11:23 | [INFO]    | Connecting to Discord...
+2019-08-04 14:11:23 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:11:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:11:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:11:23 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:11:23 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:12:47 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:12:53 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:12:53 | [INFO]    | Connecting to Discord...
+2019-08-04 14:12:54 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:12:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:12:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:12:54 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:12:54 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:14:11 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:17:20 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:17:20 | [INFO]    | Connecting to Discord...
+2019-08-04 14:17:20 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:17:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:17:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:17:20 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:17:21 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:18:25 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:18:29 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:18:29 | [INFO]    | Connecting to Discord...
+2019-08-04 14:18:29 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:18:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:18:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:18:30 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:18:30 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:19:49 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:19:49 | [INFO]    | Connecting to Discord...
+2019-08-04 14:19:49 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:19:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:19:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:19:50 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:19:50 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:21:00 | [INFO]    | Shard 0 : Disconnected
+2019-08-04 14:23:16 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:23:16 | [INFO]    | Connecting to Discord...
+2019-08-04 14:23:17 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:23:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:23:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:23:17 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:23:17 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:27:13 | [INFO]    | Discordia 2.7.0
+2019-08-04 14:27:13 | [INFO]    | Connecting to Discord...
+2019-08-04 14:27:13 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-04 14:27:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-04 14:27:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-04 14:27:14 | [INFO]    | Shard 0 : Received HELLO
+2019-08-04 14:27:14 | [INFO]    | Shard 0 : Received READY
+2019-08-04 14:29:27 | [INFO]    | Shard 0 : Disconnected
+2019-08-07 20:42:10 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:42:10 | [INFO]    | Connecting to Discord...
+2019-08-07 20:42:11 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:42:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:42:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:42:12 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:42:13 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:47:14 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:47:14 | [INFO]    | Connecting to Discord...
+2019-08-07 20:47:14 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:47:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:47:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:47:15 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:47:15 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:48:10 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:48:10 | [INFO]    | Connecting to Discord...
+2019-08-07 20:48:10 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:48:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:48:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:48:11 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:48:11 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:48:50 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:48:50 | [INFO]    | Connecting to Discord...
+2019-08-07 20:48:51 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:48:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:48:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:48:52 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:48:52 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:49:41 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:49:41 | [INFO]    | Connecting to Discord...
+2019-08-07 20:49:41 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:49:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:49:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:49:42 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:49:42 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:51:23 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:51:23 | [INFO]    | Connecting to Discord...
+2019-08-07 20:51:23 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:51:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:51:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:51:24 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:51:24 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:53:43 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:53:43 | [INFO]    | Connecting to Discord...
+2019-08-07 20:53:44 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:53:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:53:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:53:44 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:53:44 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:54:45 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:54:45 | [INFO]    | Connecting to Discord...
+2019-08-07 20:54:45 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:54:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:54:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:54:46 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:54:46 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:56:49 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:56:49 | [INFO]    | Connecting to Discord...
+2019-08-07 20:56:50 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:56:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:56:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:56:50 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:56:50 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:57:35 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:57:35 | [INFO]    | Connecting to Discord...
+2019-08-07 20:57:35 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:57:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:57:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:57:35 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:57:35 | [INFO]    | Shard 0 : Received READY
+2019-08-07 20:59:05 | [INFO]    | Discordia 2.7.0
+2019-08-07 20:59:05 | [INFO]    | Connecting to Discord...
+2019-08-07 20:59:05 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 20:59:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 20:59:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 20:59:06 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 20:59:06 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:01:19 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:01:19 | [INFO]    | Connecting to Discord...
+2019-08-07 21:01:20 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:01:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:01:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:01:20 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:01:20 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:02:03 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:02:03 | [INFO]    | Connecting to Discord...
+2019-08-07 21:02:03 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:02:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:02:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:02:04 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:02:04 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:02:57 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:02:57 | [INFO]    | Connecting to Discord...
+2019-08-07 21:02:58 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:02:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:03:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:03:02 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:03:03 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:04:40 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:04:40 | [INFO]    | Connecting to Discord...
+2019-08-07 21:04:41 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:04:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:04:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:04:41 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:04:41 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:05:41 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:05:41 | [INFO]    | Connecting to Discord...
+2019-08-07 21:05:41 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:05:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:05:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:05:41 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:05:41 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:06:48 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:06:48 | [INFO]    | Connecting to Discord...
+2019-08-07 21:06:48 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:06:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:06:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:06:48 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:06:49 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:07:33 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:07:33 | [INFO]    | Connecting to Discord...
+2019-08-07 21:07:33 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:07:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:07:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:07:34 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:07:34 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:07:57 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:07:57 | [INFO]    | Connecting to Discord...
+2019-08-07 21:07:57 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:07:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:07:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:07:57 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:07:58 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:09:07 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:09:07 | [INFO]    | Connecting to Discord...
+2019-08-07 21:09:07 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:09:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:09:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:09:07 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:09:08 | [INFO]    | Shard 0 : Received READY
+2019-08-07 21:09:49 | [INFO]    | Discordia 2.7.0
+2019-08-07 21:09:49 | [INFO]    | Connecting to Discord...
+2019-08-07 21:09:50 | [INFO]    | Authenticated as MasterBotProgram#4194
+2019-08-07 21:09:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-07 21:09:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-07 21:09:50 | [INFO]    | Shard 0 : Received HELLO
+2019-08-07 21:09:51 | [INFO]    | Shard 0 : Received READY
